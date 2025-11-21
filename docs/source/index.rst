@@ -1,14 +1,24 @@
-.. CI course documentation master file, created by
-   sphinx-quickstart on Fri Nov 21 16:04:38 2025.
+.. CI demo documentation master file, created by
+   sphinx-quickstart on Tue Jul 21 17:19:37 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CI course documentation
-=======================
+Welcome to CI demo's documentation!
+===================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   getting_started/usage
-   getting_started/installation
+   install
+   quickstart
+   reference
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
