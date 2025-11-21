@@ -9,3 +9,6 @@ CI course documentation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   getting_started/usage
+   getting_started/installation
